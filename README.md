@@ -1,0 +1,1 @@
+This is my personal portfolio website, showcasing my projects, skills, and professional experience. The site includes an overview of my recent work in software development. You can view my completed portfolio at www.varshithvajinapelli.com
